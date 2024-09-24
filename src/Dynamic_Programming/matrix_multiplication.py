@@ -1,5 +1,5 @@
 def print_matrix (matrix : list) :
-    for i in M :
+    for i in matrix :
         for j in i :
             print(f'{j:4d}', end=" ")
         print()
