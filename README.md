@@ -13,6 +13,6 @@
 ### Curriculum
 - Week 1 : Orientation
 - Week 2 : [Data Structure Theory](./Lecture_Notes/Data_Structure_Theory.pdf)
-- Week 3 : Data Structure Problem Solving & Algorithm 1 Theory
-- Week 4 : Algorithm 1 Problem Solving & Algorithm 2 Theory
-- Week 5 : Algorithm 2 Problem Solving & 
+- Week 3 : [Data Structure Solving](./Lecture_Notes/Data_Structure_Solving.pdf) & [Algorithm 1 Theory](./Lecture_Notes/Algorithm_1_Theory.pdf)
+- Week 4 : Algorithm 1 Solving & Algorithm 2 Theory
+- Week 5 : Algorithm 2 Solving & 
