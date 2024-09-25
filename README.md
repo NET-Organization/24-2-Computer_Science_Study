@@ -7,8 +7,8 @@
 ### Member
 | 스터디장 | 팀원 | 팀원 | 팀원 |
 | :---: | :---: | :---: | :---: |
-| [양경식](https://github.com/gaeng02)| [김소명]() | [김혜란]() | [문강민]() |
-| <img src = "https://avatars.githubusercontent.com/gaeng02" width = "100">
+| [양경식](https://github.com/gaeng02)| [김소명](https://github.com/somyonn) | [김혜란](https://github.com/hyeran1216) | [문강민](https://github.com/kkkmin1005) |
+| <img src = "https://avatars.githubusercontent.com/gaeng02" width = "100"> | <img src = "https://avatars.githubusercontent.com/somyonn" width = "100"> | <img src = "https://avatars.githubusercontent.com/hyeran1216" width = "100"> | <img src = "https://avatars.githubusercontent.com/kkkmin1005" width = "100">
 
 ### Curriculum
 - Week 1 : Orientation
