@@ -14,7 +14,7 @@
 - Week 2 : [Data Structure Theory](./Lecture_Notes/Data_Structure_Theory.pdf)
 - Week 3 : [Data Structure Solving](./Lecture_Notes/Data_Structure_Solving.pdf) & [Algorithm 1 Theory](./Lecture_Notes/Algorithm_1_Theory.pdf)
 - Week 4 : [Algorithm 1 Solving](./Lecture_Notes/Algorithm_1_Solving.pdf) & [Algorithm 2 Theory](./Lecture_Notes/Algorithm_2_Theory.pdf)
-- Week 5 : [Algorithm 2 Solving]() & [Computer Architecture Theory]()
+- Week 5 : [Algorithm 2 Solving](./Lecture_Notes/Algorithm_Solving.pdf) & [Computer Architecture Theory](./Lecture_Notes/Computer_Architecture_Theory.pdf)
 - Week 6 : [Computer Architecture Solving]() & [Operating System Theory]()
 - Week 7 : [Operating System Solving]() & [Database Theory]()
 - Week 8 : [Database Solving]() & [Computer Network Theory]()
