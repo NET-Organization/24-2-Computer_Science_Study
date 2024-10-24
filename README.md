@@ -1,6 +1,12 @@
 # Computer Science Study (2024 - Fall)
-- ⏰ [Schedule](#curriculum) : 매주 수요일 21시 (오프라인 : NET 동아리실)
+> 이 스터디의 목적은 컴퓨터 과학 관련 개념의 큰 그림을 그리는 것을 목적으로 한다. <br><br>
+컴퓨터 과학(Computer Science)은 **자료구조, 알고리즘, 운영체제, 데이터베이스, 네트워크**를 포함하며, 넓게는 **컴퓨터 구조, 디자인 패턴, 보안**을 포함한다.
+이러한 전공 개념을 복습하고, 머리 속에서 다시 한번 정리하며 생각하는 방법을 기르려한다.   <br><br>
+딱딱한 분위기의 스터디가 아닌, 정해진 답 없이 서로 틀릴 수 있음에도 자유롭게 이야기할 수 있는 형태로 스터디를 진행한다.
 
+- ⏰ [Schedule](#curriculum) : 매주 수요일 21시 (오프라인 : NET 동아리실)
+- 📑 [Handout](./Lecture_Notes/) : 매 수업 전 파일 공유
+- ✏️ Homework : 수업 이후 다음 수업 이전까지 각자 자신이 맡은 부분을 한 컷으로 설명 준비
 ---
 
 ### Member
@@ -18,5 +24,5 @@
 - Week 6 : [Computer Architecture Solving]() & [Operating System Theory]()
 - Week 7 : [Operating System Solving]() & [Database Theory]()
 - Week 8 : [Database Solving]() & [Computer Network Theory]()
-- Week 9 : [Computer Network Theory]()
-- Week 10 : 
+- Week 9 : [Computer Network Theory]() & [Design Pattern Theory]() + [Security]()
+- Week 10 : [Solving Real Problems]()
