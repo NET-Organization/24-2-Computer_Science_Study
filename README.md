@@ -22,7 +22,7 @@
 - Week 4 : [Algorithm 1 Solving](./Lecture_Notes/Algorithm_1_Solving.pdf) & [Algorithm 2 Theory](./Lecture_Notes/Algorithm_2_Theory.pdf)
 - Week 5 : [Algorithm 2 Solving](./Lecture_Notes/Algorithm_Solving.pdf) & [Computer Architecture Theory](./Lecture_Notes/Computer_Architecture_Theory.pdf)
 - Week 6 : [Computer Architecture Solving](./Lecture_Notes/Computer_Architecture_Solving.pdf) & [Operating System Theory](./Lecture_Notes/Operating_System_Theory.pdf)
-- Week 7 : [Operating System Solving]() & [Computer Network Theory]()
+- Week 7 : [Operating System Solving](./Lecture_Notes/Operating_System_Solving.pdf) & [Computer Network Theory](./Lecture_Notes/Computer_Network_Theory.pdf)
 - Week 8 : [Computer Network Solving]() & [Database Theory]()
 - Week 9 : [Database Solving]() & [Design Pattern Theory]() + [Security Theory]()
 - Week 10 : [Solving Real Problems]()
