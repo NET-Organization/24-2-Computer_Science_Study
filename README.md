@@ -24,5 +24,5 @@
 - Week 6 : [Computer Architecture Solving](./Lecture_Notes/Computer_Architecture_Solving.pdf) & [Operating System Theory](./Lecture_Notes/Operating_System_Theory.pdf)
 - Week 7 : [Operating System Solving](./Lecture_Notes/Operating_System_Solving.pdf) & [Computer Network Theory](./Lecture_Notes/Computer_Network_Theory.pdf)
 - Week 8 : [Computer Network Solving](./Lecture_Notes/Computer_Network_Solving.pdf) & [Database Theory](./Lecture_Notes/Database_Theory.pdf)
-- Week 9 : [Design Pattern & Security Theory]()
-- Week 10 : [Solving Real Problems and Feedback]()
+- Week 9 : [Design Pattern & Security Theory](./Lecture_Notes/DesingPattern&Security_Theory.pdf)
+- Week 10-11 : [Solving Real Problems and Feedback]()
